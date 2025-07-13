@@ -1,4 +1,4 @@
-![](./assets/banner.jpg)
+
 
 <h1 align="center">Open-LLM-VTuber</h1>
 <h3 align="center">
@@ -12,6 +12,7 @@ English README
 | ![](assets/i1.jpg) | ![](assets/i2.jpg) |
 |:---:|:---:|
 | ![](assets/i3.jpg) | ![](assets/i4.jpg) |
+[![Watch the video](https://img.youtube.com/vi/e30IFkNX0mY/0.jpg)](https://www.youtube.com/watch?v=e30IFkNX0mY)
 
 
 ## ✨ Features & Highlights
@@ -56,6 +57,8 @@ English README
 Please refer to the [Quick Start](https://open-llm-vtuber.github.io/docs/quick-start) section in our documentation for installation.
 
 # 🎉🎉🎉 Related Projects
+
+![](./assets/banner.jpg)
 
 Open-LLM-VTuber (https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)
 If you like this project buy them a coffee
