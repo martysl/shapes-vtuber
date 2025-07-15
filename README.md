@@ -1,7 +1,6 @@
 <h1 align="center">Open-LLM-VTuber Fork for Shapes.inc</h1>
 by Marty
-<h3 align="center">
-English README
+<h3 align="center">English README</h3>
 [Documentation](https://open-llm-vtuber.github.io/docs/quick-start)
 ### 👀 Demo
 | ![](assets/i1.jpg) | ![](assets/i2.jpg) |
