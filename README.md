@@ -1,11 +1,12 @@
-<h1 align="center">Open-LLM-VTuber Fork for Shapes.inc</h1>
+#Open-LLM-VTuber Fork
+https://github.com/martysl/shapes-vtuber
 
 ## ✨ Reason why
 - This is fork of [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) to made it work with shapes.inc!
-- To add chat bridge function 
-- updates for work with by Marty
-
-[Documentation](https://open-llm-vtuber.github.io/docs/quick-start)
+### What Changed
+- To add chat bridge function (by Marty)
+- Chat Bridge File form YT, Twitch, bilibili and irc (in progress) (by Marty)
+- basic memory and  llm connector (by Marty)
 
 ### 👀 Demo
 | ![](assets/i1.jpg) | ![](assets/i2.jpg) |
@@ -14,7 +15,7 @@
 [![Watch the video](https://img.youtube.com/vi/e30IFkNX0mY/0.jpg)](https://www.youtube.com/watch?v=e30IFkNX0mY)
 
 ## ✨ TODO
-- fix file vtuber_chat_bridge.py
+- fix file vtuber_chat_bridge.py and proxy (where needed)
 - everything else not mentioned
 
 ## ✨ Features & Highlights
