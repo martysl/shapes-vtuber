@@ -1,17 +1,23 @@
 <h1 align="center">Open-LLM-VTuber Fork for Shapes.inc</h1>
-by Marty
+
+## ✨ Reason why
+- This is fork of [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) to made it work with shapes.inc!
+- To add chat bridge function 
+- updates for work with by Marty
+
 <h3 align="center">English README</h3>
 [Documentation](https://open-llm-vtuber.github.io/docs/quick-start)
+
 ### 👀 Demo
 | ![](assets/i1.jpg) | ![](assets/i2.jpg) |
 |:---:|:---:|
 | ![](assets/i3.jpg) | ![](assets/i4.jpg) |
 [![Watch the video](https://img.youtube.com/vi/e30IFkNX0mY/0.jpg)](https://www.youtube.com/watch?v=e30IFkNX0mY)
 
+## ✨ TODO
+- fix file vtuber_chat_bridge.py
+- everything else not mentioned
 
-## ✨ Reason why
-- This is fork of [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) to made it work with shapes.inc!
-- To add chat bridge function
 ## ✨ Features & Highlights
 - 🖥️ **Cross-platform support**: Perfect compatibility with macOS, Linux, and Windows. We support NVIDIA and non-NVIDIA GPUs, with options to run on CPU or use cloud APIs for resource-intensive tasks. Some components support GPU acceleration on macOS.
 
@@ -45,15 +51,15 @@ by Marty
 ## 🚀 Quick Start
 
 Please refer to the [Quick Start](https://open-llm-vtuber.github.io/docs/quick-start) section in our documentation for installation.
+This is just for to work with shapes.inc, i own only my changes, for everything else look under:
 
-# 🎉🎉🎉 Related Projects
+# 🎉🎉🎉 Original repo
 
 ![](./assets/banner.jpg)
 
 Thanks to [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)  
 Their Discord:  
 [![](https://dcbadge.limes.pink/api/server/3UDA8YFDXx)](https://discord.gg/3UDA8YFDXx)
-
 
 ## 📜 Third-Party Licenses
 
