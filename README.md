@@ -15,8 +15,10 @@ English README
 [![Watch the video](https://img.youtube.com/vi/e30IFkNX0mY/0.jpg)](https://www.youtube.com/watch?v=e30IFkNX0mY)
 
 
+## ✨ Reason why
+- This is fork of [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) to made it work with shapes.inc!
+- To add chat bridge function
 ## ✨ Features & Highlights
-- This for work with shapes.inc!
 - 🖥️ **Cross-platform support**: Perfect compatibility with macOS, Linux, and Windows. We support NVIDIA and non-NVIDIA GPUs, with options to run on CPU or use cloud APIs for resource-intensive tasks. Some components support GPU acceleration on macOS.
 
 - 🔒 **Offline mode support**: Run completely offline using local models - no internet required. Your conversations stay on your device, ensuring privacy and security.
@@ -46,12 +48,6 @@ English README
   - 🔌 **Good extensibility**: Modular design allows you to easily add your own LLM, ASR, TTS, and other module implementations, extending new features at any time
 
 
-## 👥 User Reviews
-> Thanks to the developer for open-sourcing and sharing the girlfriend for everyone to use
-> 
-> This girlfriend has been used over 100,000 times
-
-
 ## 🚀 Quick Start
 
 Please refer to the [Quick Start](https://open-llm-vtuber.github.io/docs/quick-start) section in our documentation for installation.
@@ -60,11 +56,10 @@ Please refer to the [Quick Start](https://open-llm-vtuber.github.io/docs/quick-s
 
 ![](./assets/banner.jpg)
 
-Open-LLM-VTuber (https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)
-If you like this project buy them a coffee
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yi.ting)
-Their Discord:
+[Open-LLM-VTuber] (https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)  
+Their Discord:  
 [![](https://dcbadge.limes.pink/api/server/3UDA8YFDXx)](https://discord.gg/3UDA8YFDXx)
+
 
 ## 📜 Third-Party Licenses
 
