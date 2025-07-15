@@ -1,12 +1,7 @@
-
-
-<h1 align="center">Open-LLM-VTuber</h1>
+<h1 align="center">Open-LLM-VTuber Fork for Shapes.inc</h1>
+by Marty
 <h3 align="center">
-
-
-
 English README
-
 [Documentation](https://open-llm-vtuber.github.io/docs/quick-start)
 ### 👀 Demo
 | ![](assets/i1.jpg) | ![](assets/i2.jpg) |
@@ -56,7 +51,7 @@ Please refer to the [Quick Start](https://open-llm-vtuber.github.io/docs/quick-s
 
 ![](./assets/banner.jpg)
 
-[Open-LLM-VTuber] (https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)  
+Thanks to [Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)  
 Their Discord:  
 [![](https://dcbadge.limes.pink/api/server/3UDA8YFDXx)](https://discord.gg/3UDA8YFDXx)
 
