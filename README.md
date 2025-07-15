@@ -9,9 +9,6 @@ https://github.com/martysl/shapes-vtuber
 - basic memory and  llm connector (by Marty)
 
 ### 👀 Demo
-| ![](assets/i1.jpg) | ![](assets/i2.jpg) |
-|:---:|:---:|
-| ![](assets/i3.jpg) | ![](assets/i4.jpg) |
 [![Watch the video](https://img.youtube.com/vi/e30IFkNX0mY/0.jpg)](https://www.youtube.com/watch?v=e30IFkNX0mY)
 
 ## ✨ TODO
