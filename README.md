@@ -5,7 +5,6 @@
 - To add chat bridge function 
 - updates for work with by Marty
 
-<h3 align="center">English README</h3>
 [Documentation](https://open-llm-vtuber.github.io/docs/quick-start)
 
 ### 👀 Demo
@@ -17,10 +16,6 @@
 ## ✨ TODO
 - fix file vtuber_chat_bridge.py
 - everything else not mentioned
-<<<<<<< HEAD
-=======
-
->>>>>>> b6e44aa27faf71457a2fdbca76072e79b05cedb1
 
 ## ✨ Features & Highlights
 - 🖥️ **Cross-platform support**: Perfect compatibility with macOS, Linux, and Windows. We support NVIDIA and non-NVIDIA GPUs, with options to run on CPU or use cloud APIs for resource-intensive tasks. Some components support GPU acceleration on macOS.
